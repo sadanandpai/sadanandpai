@@ -1,4 +1,6 @@
-### Hi there 👋
+###I am Sadanand Akshay Pai
+
+I am a full stack web developer with expertise in front end development. I like to design webpages, write clean code with JavaScript, solve DS and Algo problems using Java. I am teacher, mentor and tech enthusiast. Connect with me on LinkedIn
 
 <!--
 **sadanandpai/sadanandpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
