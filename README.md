@@ -1,18 +1,20 @@
-### I am Sadanand Akshay Pai
+<h1 align="center">Hi 👋, I'm Sadanand Akshay Pai</h1>
+<h3 align="center">Front-end developer who aims to write quality code</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /> </p>
 
-I am a full stack web developer with expertise in front end development. I like to design webpages, write clean code with JavaScript, solve DS and Algo problems using Java. I am teacher, mentor and tech enthusiast. Connect with me on LinkedIn
+- 👨‍💻 All of my projects are available at [github](github)
 
-<!--
-**sadanandpai/sadanandpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **sadypai@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **sometimes humorous**
+
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sadanandpai&show_icons=true" alt="sadanandpai" /> </p>
+
+<p align="center">
+<a href="https://twitter.com/paicube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/sadanandpai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadanandpai" height="20" width="20" /></a>
+<a href="https://fb.com/yespai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yespai" height="20" width="20" /></a>
+<a href="https://instagram.com/pai_cube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pai_cube" height="20" width="20" /></a>
+</p>
