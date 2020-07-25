@@ -20,3 +20,4 @@
 <a href="https://fb.com/yespai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yespai" height="20" width="20" /></a>
 <a href="https://instagram.com/pai_cube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pai_cube" height="20" width="20" /></a>
 </p>
+[![Sadanand's github stats](https://github-readme-stats.vercel.app/api?username=sadanandpai)](https://github.com/anuraghazra/github-readme-stats)
