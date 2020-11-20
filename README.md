@@ -2,8 +2,6 @@
 <h3 align="center">Front-end developer who aims to write quality code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /> </p>
 
- ![Visitor Count](https://profile-counter.glitch.me/{sadanandpai}/count.svg)
-
 - 👨‍💻 All of my projects are available at [github](https://github.com/sadanandpai?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
