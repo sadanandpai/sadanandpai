@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f2c5dec.chunk.css",
+    "main.js": "/static/js/main.94214a05.chunk.js",
+    "main.js.map": "/static/js/main.94214a05.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b72f90eb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b72f90eb.js.map",
+    "static/js/2.6a120fc4.chunk.js": "/static/js/2.6a120fc4.chunk.js",
+    "static/js/2.6a120fc4.chunk.js.map": "/static/js/2.6a120fc4.chunk.js.map",
+    "static/css/3.0d19a860.chunk.css": "/static/css/3.0d19a860.chunk.css",
+    "static/js/3.d4156634.chunk.js": "/static/js/3.d4156634.chunk.js",
+    "static/js/3.d4156634.chunk.js.map": "/static/js/3.d4156634.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fe6e5fa7919c81fa0253716b02c38b76.js": "/precache-manifest.fe6e5fa7919c81fa0253716b02c38b76.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.0d19a860.chunk.css.map": "/static/css/3.0d19a860.chunk.css.map",
+    "static/css/main.1f2c5dec.chunk.css.map": "/static/css/main.1f2c5dec.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/harvardLogo.png": "/static/media/harvardLogo.83a05b10.png",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b72f90eb.js",
+    "static/js/2.6a120fc4.chunk.js",
+    "static/css/main.1f2c5dec.chunk.css",
+    "static/js/main.94214a05.chunk.js"
+  ]
+}
