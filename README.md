@@ -1,6 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sadanand Akshay Pai</h1>
 <h3 align="center">Frontend developer who aims to write quality code</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /> </p>
+
+<div align=center>
+  <a href="https://www.linkedin.com/in/sadanandpai/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://twitter.com/paicube"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <br><br>
+ <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
+</div>
 
 - 👨‍💻 I am a frontend developer having fundamental knowledge. I work at CoinDCX as a frontend developer to deliver the quality frontend product. I work on my personal projects during my free time and share them with all of you to help grow together. Please go through my repos and you might come across something useful for you.
 
@@ -17,7 +23,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadanandpai&show_icons=true&theme=radical&line_height=27" alt="sadanandpai's github stats" />
 </a>
 
-<p align="center">
-<a href="https://linkedin.com/in/sadanandpai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadanandpai" height="20" width="20" /></a>
-<a href="https://twitter.com/paicube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a>
-</p>
