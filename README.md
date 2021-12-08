@@ -14,7 +14,17 @@
 
 - ⚡ Do read my blog on [My frontend interview experience at CoinDCX](https://frontendpro.hashnode.dev/frontend-interview-experience-at-coindcx)
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="react" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angularjs" width="20" height="20"/> <img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-512.png" alt="bootstrap" width="20" height="20"/> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="20" height="20"/> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="20" height="20"/></p><p align="center">
+<br>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<p align="center">
+  
+  <br>
   
 <a href="https://github.com/sadanandpai/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadanandpai&theme=radical&hide=glsl,python" />
