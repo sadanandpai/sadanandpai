@@ -8,11 +8,11 @@
  <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
 </div>
 
-- 👨‍💻 I am a frontend developer with good fundamentals. I work at CoinDCX to deliver the quality products. I work on my personal projects during my free time and share them with all of you to help grow together. Please go through my repos and you might come across something useful for you.
+- 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at CoinDCX to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
 - 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/sadanandpai). You can also send me a mail to sadypai@gmail.com.
 
-- ⚡ Do read my blog on [My frontend interview experience at CoinDCX](https://frontendpro.hashnode.dev/frontend-interview-experience-at-coindcx)
+- ⚡ To read my blog post, checkout [FrontendPro](https://frontendpro.hashnode.dev/)
 
 <br>
 
