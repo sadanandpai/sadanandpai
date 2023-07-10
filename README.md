@@ -10,9 +10,14 @@
 
 - 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at CoinDCX to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
-- 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/sadanandpai). You can also send me a mail to sadypai@gmail.com.
-
 - ⚡ To read my blog post, checkout [FrontendPro](https://frontendpro.hashnode.dev/)
+  
+- Watch my talks on youtube
+  - [Frontend Interview Preparation](https://www.youtube.com/watch?v=fMeU-SBQKlU)
+  - [How to clear frontend interviews at Product companies?](https://www.youtube.com/watch?v=fMeU-SBQKlU)
+  - [State Management using Zustand for React](https://www.youtube.com/watch?v=pP9gQr0nK2s)
+
+- 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/sadanandpai). You can also send me a mail to sadypai@gmail.com.
 
 <br>
 
