@@ -14,8 +14,9 @@
   
 - Watch my talks on youtube
   - [Frontend Interview Preparation](https://www.youtube.com/watch?v=fMeU-SBQKlU)
-  - [How to clear frontend interviews at Product companies?](https://www.youtube.com/watch?v=LjpWXIT_XvY&t=9s)
+  - [How to clear frontend interviews at Product companies?](https://www.youtube.com/watch?v=LjpWXIT_XvY)
   - [State Management using Zustand for React](https://www.youtube.com/watch?v=pP9gQr0nK2s)
+  - [Candidly Speaking with Sadanand Pai](https://www.youtube.com/watch?v=uPK82gCBVdk)
 
 - 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/sadanandpai). You can also send me a mail to sadypai@gmail.com.
 
