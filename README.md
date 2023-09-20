@@ -8,17 +8,18 @@
  <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
 </div>
 
-- 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at CoinDCX to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
+- 👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at CoinDCX to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
-- ⚡ To read my blog post, checkout [FrontendPro](https://frontendpro.hashnode.dev/)
+- ⚡ To read my blog post, check [FrontendPro](https://frontendpro.hashnode.dev/)
   
-- Watch my talks on youtube
+- Watch my talks on YouTube
   - [Frontend Interview Preparation](https://www.youtube.com/watch?v=fMeU-SBQKlU)
   - [How to clear frontend interviews at Product companies?](https://www.youtube.com/watch?v=LjpWXIT_XvY)
-  - [State Management using Zustand for React](https://www.youtube.com/watch?v=pP9gQr0nK2s)
   - [Candidly Speaking with Sadanand Pai](https://www.youtube.com/watch?v=uPK82gCBVdk)
+  - [State Management using Zustand for React](https://www.youtube.com/watch?v=pP9gQr0nK2s)
+  - [Getting started with react-spring for animations](https://www.youtube.com/watch?v=7SAgjHshGcQ)
 
-- 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/sadanandpai). You can also send me a mail to sadypai@gmail.com.
+- 📫 The best way to reach me is [Linkedin](https://linkedin.com/in/sadanandpai). You can also send me an email to sadypai@gmail.com.
 
 <br>
 
