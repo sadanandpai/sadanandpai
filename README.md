@@ -19,7 +19,7 @@
   - [State Management using Zustand for React](https://www.youtube.com/watch?v=pP9gQr0nK2s)
   - [Getting started with react-spring for animations](https://www.youtube.com/watch?v=7SAgjHshGcQ)
 
-- 📫 The best way to reach me is [Linkedin](https://linkedin.com/in/sadanandpai). You can also send me an email to sadypai@gmail.com.
+- 📫 The best way to reach me is [Twitter](https://twitter.com/paicube). You can also send me an email to sadypai@gmail.com.
 
 <br>
 
