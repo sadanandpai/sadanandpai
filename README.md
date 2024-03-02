@@ -15,6 +15,7 @@
 - Watch my talks on YouTube
   - [Frontend Interview Preparation](https://www.youtube.com/watch?v=fMeU-SBQKlU)
   - [How to clear frontend interviews at Product companies?](https://www.youtube.com/watch?v=LjpWXIT_XvY)
+  - [Frontend System Design of W3Schools](https://www.youtube.com/watch?v=JwxzDXnDBhw)
   - [Candidly Speaking with Sadanand Pai](https://www.youtube.com/watch?v=uPK82gCBVdk)
   - [State Management using Zustand for React](https://www.youtube.com/watch?v=pP9gQr0nK2s)
   - [Getting started with react-spring for animations](https://www.youtube.com/watch?v=7SAgjHshGcQ)
