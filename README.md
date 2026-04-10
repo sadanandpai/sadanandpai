@@ -8,7 +8,7 @@
  <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
 </div>
 
-- 👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at CoinDCX to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
+- 👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at Atlassian to deliver quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos, and you might come across something useful.
 
 - ⚡ To read my blog post, check [FrontendPro](https://frontendpro.hashnode.dev/)
   
@@ -16,6 +16,7 @@
   - [Frontend Interview Preparation](https://www.youtube.com/watch?v=fMeU-SBQKlU)
   - [How to clear frontend interviews at Product companies?](https://www.youtube.com/watch?v=LjpWXIT_XvY)
   - [Frontend System Design of W3Schools](https://www.youtube.com/watch?v=JwxzDXnDBhw)
+  - [QA Tester to Software Developer](https://www.youtube.com/watch?v=romK_9QyTVA)
   - [Candidly Speaking with Sadanand Pai](https://www.youtube.com/watch?v=uPK82gCBVdk)
   - [State Management using Zustand for React](https://www.youtube.com/watch?v=pP9gQr0nK2s)
   - [Getting started with react-spring for animations](https://www.youtube.com/watch?v=7SAgjHshGcQ)
