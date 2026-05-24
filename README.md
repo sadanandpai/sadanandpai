@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadanand Pai</h1>
-<h3 align="center">Frontend developer who aims to write quality code</h3>
+<h3 align="center">Frontend + AI engineer who aims to build quality products</h3>
 
 <div align=center>
   <a href="https://www.linkedin.com/in/sadanandpai/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
@@ -8,7 +8,9 @@
  <p><img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /></p>
 </div>
 
-- 👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at Atlassian to deliver quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos, and you might come across something useful.
+- 👨‍💻 I am an engineer with a focus on web and AI fundamentals. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos, and you might come across something useful. For more, visit my [PORTFOLIO](https://sadanandpai.github.io/)
+
+---
 
 - ⚡ To read my blog post, check [FrontendPro](https://frontendpro.hashnode.dev/)
   
